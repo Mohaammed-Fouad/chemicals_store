@@ -1,4 +1,4 @@
-# 🧪 Chemical Inventory System (Python Practice Project)
+# 🧪 Chemical Store (Python Practice Project)
 
 This project is a console-based chemical inventory manager written in Python.
 It was built as a way to practice and apply Python concepts such as file handling, dictionaries, loops, and user interaction.
